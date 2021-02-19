@@ -1,5 +1,16 @@
-# lib/adafruit_hid/mouse.mpy
-# lib/adafruit_hid/__init__.mpy
+# https://wiki.seeedstudio.com/jp/Seeeduino-XIAO-CircuitPython/
+# https://akizukidenshi.com/catalog/g/gM-08763/
+#
+# https://circuitpython.org/libraries
+# - lib/adafruit_hid/mouse.mpy
+# - lib/adafruit_hid/__init__.mpy
+#
+# Xiao     Joystick
+# GND --- GND
+# 3V3 --- 5V
+# A10 --- VRX
+# A9 --- VRY
+# A8 --- SW
 
 import time
 import board
