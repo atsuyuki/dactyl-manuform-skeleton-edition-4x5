@@ -2,5 +2,7 @@
 
 [Dactyl-Manuform](https://github.com/tshort/dactyl-keyboard)のカスタム版です、まだまだ書きかけ作りかけ。ß
 
-<img src="image1.jpg">
+<img src="image1.png" style="zoom: 67%;" >
+
+<img src="image2.png" style="zoom: 67%;" >
 
