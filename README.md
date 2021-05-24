@@ -1,10 +1,28 @@
 # Dactyl Manuform Skeleton Edition 4x5
 
-[Dactyl-Manuform](https://github.com/tshort/dactyl-keyboard) のカスタム版、まだまだ作りかけ。
+[Dactyl-Manuform](https://github.com/tshort/dactyl-keyboard) のカスタム版、README書きかけ。
 
 <img src="image1.png" style="zoom: 50%;" >
 
 <img src="image2.png" style="zoom: 50%;" >
+
+## ストーリー
+
+（これから書きます）
+
+## 3Dプリントデータ
+
+- /things
+  - baseplate
+  - bottom
+  - top
+  - index
+  - thumb
+  - pro micro holder
+
+## ビルドログ
+
+（これから書きます）
 
 ## プロジェクトの進捗
 
