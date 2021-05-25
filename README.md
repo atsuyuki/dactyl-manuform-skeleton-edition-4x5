@@ -18,7 +18,7 @@
   - top
   - index
   - thumb
-  - pro micro holder
+  - pro micro bracket
 
 ## ビルドログ
 
