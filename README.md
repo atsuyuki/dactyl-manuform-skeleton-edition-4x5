@@ -16,7 +16,7 @@
   - top
   - index
   - thumb
-  - pro micro bracket
+  - pro micro bracket（要改良）
 
 ## ビルドログ
 
