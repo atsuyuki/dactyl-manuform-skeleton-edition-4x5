@@ -1,12 +1,12 @@
 # Dactyl Manuform Skeleton Edition 4x5
 
-[Dactyl-Manuform](https://github.com/tshort/dactyl-keyboard) のリミックスモデル
+[Dactyl-Manuform](https://github.com/tshort/dactyl-keyboard) のリミックスモデルです。
 
-<img src="image3.jpeg" style="zoom: 50%;" >
+<img src="img/image3.jpg" style="zoom: 50%;" >
 
 ## 系統樹
 
-![image5](image5.jpg)
+![image5](img/image5.jpg)
 
 ## ストーリー
 
@@ -18,7 +18,7 @@
 
 ## 3Dプリント用データ
 
-![image4](image4.jpg)
+![image4](img/image4.jpg)
 
 - /things
   - baseplate
