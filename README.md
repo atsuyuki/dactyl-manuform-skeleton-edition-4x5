@@ -10,7 +10,7 @@
 
 ## ストーリー
 
-- [エルゴノミックな自作キーボード Dactyl Manuform のカスタムモデルを作る話—コンセプト&基本設計編—](https://www.creativity-ape.com/entry/2021/03/13/080000)
+[エルゴノミックな自作キーボード Dactyl Manuform のカスタムモデルを作る話—コンセプト&基本設計編—](https://www.creativity-ape.com/entry/2021/03/13/080000)
 
 ## ビルドガイド
 
