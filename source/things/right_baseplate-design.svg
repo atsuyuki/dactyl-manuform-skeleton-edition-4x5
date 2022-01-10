@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   width="82mm"
+   height="102mm"
+   viewBox="22 -21 82 102"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="right_baseplate-design.svg">
+  <style
+     id="style3465">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style>
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OpenSCAD Model</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect3443"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0.2,0.66145998 | 0.5,0.66145998 | 0.8,0.66145998"
+       sort_points="true"
+       interpolator_type="CentripetalCatmullRom"
+       interpolator_beta="0"
+       start_linecap_type="zerowidth"
+       linejoin_type="round"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3441"
+       is_visible="true"
+       lpeversion="1"
+       weight="13.9"
+       steps="1"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3439"
+       is_visible="true"
+       lpeversion="1"
+       weight="15"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="false"
+       apply_with_weight="false"
+       only_selected="true" />
+    <pattern
+       id="Voronoi3541"
+       width="49.185801"
+       height="97.2243"
+       patternUnits="userSpaceOnUse"
+       patternTransform="translate(54.5852, -20.0369)">
+      <path
+         d="M 19.288,4.154 22.110,0.000 M 25.369,0.000 29.948,4.311 M 19.288,4.154 23.889,11.622 M 23.889,11.622 29.948,4.311 M 29.948,4.311 43.479,3.767 M 41.421,0.000 43.479,3.767 M 43.479,3.767 45.986,5.048 M 45.986,5.048 46.623,0.000 M 0.000,7.190 6.748,0.000 M 45.986,5.048 48.810,7.590 M 48.810,7.590 49.186,7.190 M 0.000,12.673 0.941,12.185 M 0.000,8.902 0.941,12.185 M 32.988,21.063 49.186,12.673 M 48.810,7.590 49.186,8.902 M 0.941,12.185 0.948,12.194 M 0.948,12.194 19.288,4.154 M 18.898,19.940 23.889,11.622 M 18.898,19.940 32.988,21.063 M 32.988,21.063 34.649,33.151 M 12.190,23.047 18.898,19.940 M 12.190,23.047 12.841,24.012 M 0.948,12.194 7.815,21.987 M 7.815,21.987 12.190,23.047 M 12.841,24.012 31.933,35.747 M 31.933,35.747 34.649,33.151 M 34.649,33.151 49.186,32.123 M 0.000,32.123 1.381,32.026 M 1.381,32.026 7.815,21.987 M 0.914,35.376 1.381,32.026 M 30.320,52.218 31.933,35.747 M 12.841,24.012 22.173,53.516 M 22.173,53.516 30.320,52.218 M 0.914,35.376 19.083,55.641 M 19.083,55.641 22.173,53.516 M 0.000,37.328 0.914,35.376 M 30.320,52.218 40.689,55.484 M 40.689,55.484 49.186,37.328 M 43.489,58.859 43.573,58.703 M 40.689,55.484 43.573,58.703 M 15.131,59.774 19.083,55.641 M 0.000,60.907 6.834,63.590 M 6.834,63.590 15.131,59.774 M 43.573,58.703 49.186,60.907 M 39.704,80.797 43.489,58.859 M 6.775,73.851 6.834,63.590 M 6.775,73.851 7.147,74.438 M 0.000,79.870 6.775,73.851 M 39.704,80.797 48.765,80.244 M 48.765,80.244 49.186,79.870 M 15.131,59.774 29.030,78.211 M 29.030,78.211 43.489,58.859 M 29.030,78.211 29.213,81.597 M 29.213,81.597 34.095,83.811 M 34.095,83.811 39.704,80.797 M 7.147,74.438 22.656,85.749 M 22.656,85.749 29.213,81.597 M 20.692,90.830 22.656,85.749 M 20.692,90.830 23.382,95.353 M 22.110,97.224 23.382,95.353 M 7.147,74.438 8.427,95.436 M 8.427,95.436 20.692,90.830 M 23.382,95.353 25.369,97.224 M 34.095,83.811 41.421,97.224 M 46.623,97.224 48.765,80.244 M 6.748,97.224 8.427,95.436 M 6.271,97.224 6.271,97.224 M 13.564,0.000 13.564,0.000 "
+         style="stroke:#000000;stroke-width:0.26458333333333334"
+         id="path2930" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     id="namedview16"
+     showgrid="false"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="1.4576207"
+     inkscape:cx="237.93141"
+     inkscape:cy="199.33834"
+     inkscape:window-x="574"
+     inkscape:window-y="1463"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14"
+     inkscape:document-rotation="0" />
+  <title
+     id="title10">OpenSCAD Model</title>
+  <path
+     d="M 62.15,46.4722 61.3,45 62.15,43.5278 h 1.7 L 64.7,45 63.85,46.4722 Z"
+     id="path52"
+     style="fill:none;stroke:#00ff00;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     d="M 25.15,41.4722 24.3,40 25.15,38.5278 h 1.7 L 27.7,40 26.85,41.4722 Z"
+     id="path50"
+     style="fill:none;stroke:#00ff00;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     d="M 24.15,-1.52776 23.3,-3 24.15,-4.47223 h 1.7 L 26.7,-3 25.85,-1.52776 Z"
+     id="path46"
+     style="fill:none;stroke:#00ff00;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     d="M 71.15,-3.52776 70.3,-5 71.15,-6.47223 h 1.7 L 73.7,-5 72.85,-3.52776 Z"
+     id="path44"
+     style="fill:none;stroke:#00ff00;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 56.6508,-20.0369 -1.7692,-0.2806 H 40.3489 l -10.7506,3 -1.7244,0.8192 -1.5,1.0898 -1.0249,1.6591 -0.573,1.7633 v 6.13294 h -0.7031 l -1.5,1.08981 L 22,-3 l 0.5729,1.76337 1.5,1.08981 H 24.776 V 11.9861 l 0.716,25.1607 h -0.4191 l -1.5,1.0898 L 23,40 l 0.5729,1.7634 1.5,1.0898 h 0.5814 L 26,55 l 1.1459,3.5267 13.3152,12.6253 1.5,1.0898 1.5914,0.8304 h 1.8541"
+     id="path1203" />
+  <path
+     style="fill:none;stroke:#999999;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 45.4066,73.0722 1.41,-0.1136 1.5,-1.0898 17.6047,-14.7722 0.7808,-1.0215 0.5729,-1.7633 -0.0962,-1.6052 -0.573,-1.7633"
+     id="path40" />
+  <path
+     d="m 77.5544,76.689 -0.2952,-1.6742 1.3023,-1.0927 1.5975,0.5814 0.2952,1.6742 -1.3023,1.0927 z"
+     id="path38"
+     style="fill:none;stroke:#ff00ff;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     d="m 59.6094,70.8602 -0.2952,-1.6742 1.3023,-1.0927 1.5974,0.5814 0.2953,1.6742 -1.3023,1.0927 z"
+     id="path36"
+     style="fill:none;stroke:#ff00ff;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     d="m 74.9303,58.0044 -0.2952,-1.6742 1.3023,-1.0927 1.5974,0.5814 0.2952,1.6742 -1.3022,1.0927 z"
+     id="path32"
+     style="fill:none;stroke:#ff00ff;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 58.3099,73.9675 1.7713,0.7267 17.945,5.8288 1.9061,-0.1796 1.09,-0.4404 1.6042,-1.0449 0.9349,-1.6707"
+     id="path1207" />
+  <path
+     style="fill:none;stroke:#999999;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 75.4826,52.0021 -1.8077,0.6306 -15.3209,12.8558 -1.3076,1.3984 -0.6229,0.997 -0.5079,1.8459 0.4081,1.8705 1.9862,2.3672"
+     id="path4458" />
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 103.542,31.8589 104,30 v -40 l -0.458,-1.8589 -1.27,-1.433 -1.79,-0.6789"
+     id="path1211" />
+  <path
+     style="fill:#0000ff;stroke:#0000ff;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 45.4066,73.072198 12.9033,0.895303"
+     id="path24" />
+  <path
+     id="path4450"
+     style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 75.482599,52.002099 66.6058,50.9433 65.6737,49.10235 64.7416,47.2614 65.427,46.7634 66,45 l -0.573,-1.7634 -1.5,-1.0898 h -1.775 l -7.5668,-14.9446 10.2689,-8.6755 5,-5 5,-14.99997 L 76,-5 l -1.1459,-3.5267 -3,-2.1796 -15.203301,-9.3306 43.831201,6.0661 -1.9004,0.2307 -1.5756,1.0876 -0.8898,1.6952 v 41.9146 l 0.8898,1.6952 1.5756,1.0876 1.9004,0.2307 1.79,-0.6789 1.27,-1.433 -19.9806,45.3285 0.0514,-1.9139 -0.082,-1.1727 -2.6241,-18.6846 -0.8439,-1.7185 -1.5459,-1.1294 -1.1406,-0.2844 -1.8937,-0.2818"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
+</svg>
